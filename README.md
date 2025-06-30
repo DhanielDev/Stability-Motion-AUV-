@@ -54,5 +54,5 @@ Sistem ini dibangun untuk menjawab kebutuhan akan **kendali gerakan bawah laut y
 - Rendy Androleo Rizaldy
 - Rizki Agustino
 - Argiansyah Sastryo
-- Annisa Nur Azizah 
+- Annisa Nur Azizah
 
