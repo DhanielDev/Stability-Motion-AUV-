@@ -57,7 +57,6 @@ Sistem ini dibangun untuk menjawab kebutuhan akan **kendali gerakan bawah laut y
 - Annisa Nur Azizah
 
 <h1 align="center">Video Demo Robot</h1>
-<h3 align="center">Berbasis Sensor Inersial & Estimasi Kedalaman Adaptif</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
