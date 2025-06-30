@@ -59,7 +59,7 @@ Sistem ini dibangun untuk menjawab kebutuhan akan **kendali gerakan bawah laut y
 <h1 align="center">Video Demo Robot</h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/3hoSv-DILDE" target="_blank">
     <img src="https://img.shields.io/badge/Tonton_Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Tonton di YouTube"/>
   </a>
 </p>
