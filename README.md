@@ -1,6 +1,6 @@
 # Stability-Motion-AUV-
 <h1 align="center">
-  <img src="assets/AUV.png" width="120"/>
+  <img src="assets/AUV.png" width="180"/>
   <br>
   Program Stability Motion Control AUV
 </h1>
