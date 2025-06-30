@@ -56,7 +56,7 @@ Sistem ini dibangun untuk menjawab kebutuhan akan **kendali gerakan bawah laut y
 - Argiansyah Sastryo
 - Annisa Nur Azizah
 
-<h1 align="center">Stability Motion Control AUV</h1>
+<h1 align="center">Video Demo Robot</h1>
 <h3 align="center">Berbasis Sensor Inersial & Estimasi Kedalaman Adaptif</h3>
 
 <p align="center">
