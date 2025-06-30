@@ -56,3 +56,14 @@ Sistem ini dibangun untuk menjawab kebutuhan akan **kendali gerakan bawah laut y
 - Argiansyah Sastryo
 - Annisa Nur Azizah
 
+<h1 align="center">Stability Motion Control AUV</h1>
+<h3 align="center">Berbasis Sensor Inersial & Estimasi Kedalaman Adaptif</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Tonton_Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Tonton di YouTube"/>
+  </a>
+</p>
+
+📺 Klik tombol di atas untuk melihat sistem ini bekerja secara langsung di bawah air!
+
