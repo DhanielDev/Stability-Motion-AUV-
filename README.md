@@ -1,6 +1,6 @@
 # Stability-Motion-AUV-
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/auv_logo.png" width="120"/>
+  <img src="assets/AUV.png" width="120"/>
   <br>
   Program Stability Motion Control AUV
 </h1>
