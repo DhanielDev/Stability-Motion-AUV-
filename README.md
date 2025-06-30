@@ -27,13 +27,32 @@ Sistem ini dirancang untuk menjaga **kestabilan gerakan Autonomous Underwater Ve
 
 ## ⚙️ Fitur Utama
 
-- ✅ Pengendalian gerak AUV berbasis PID (Manual & Fuzzy PID-ready)
+- ✅ Pengendalian gerak AUV berbasis PID 
 - ✅ Integrasi sensor IMU dan tekanan untuk kontrol posisi yang stabil
 - ✅ Estimasi kedalaman adaptif sesuai perubahan lingkungan
-- ✅ Komunikasi antar modul melalui ROS atau UART Serial
-- ✅ Didesain untuk ekspansi: dapat diintegrasikan dengan path planning, computer vision, atau AI
+
+---
+## 🎯 Tujuan Pengembangan
+
+Sistem ini dibangun untuk menjawab kebutuhan akan **kendali gerakan bawah laut yang presisi dan stabil**, dalam berbagai kondisi operasional seperti:
+
+- Penelitian lingkungan laut
+- Robotika eksplorasi bawah air
+- AUV edukatif dan kompetisi
 
 ---
 
-## 📦 Struktur Sistem
+## 🤝 Kontributor
+
+- Ryan Satria Wijaya
+- Dhaniel Beny Wardhana
+- Wildan Mahfudh Khoirul Murtadho
+- Aditia Ummardiansyah
+- Aldi Ali Yudianto
+- Adifta Justiano
+- Krisna Dwi Cahya
+- Rendy Androleo Rizaldy
+- Rizki Agustino
+- Argiansyah Sastryo
+- Annisa Nur Azizah 
 
